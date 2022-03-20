@@ -16,8 +16,9 @@ IP location Lookup Billing
 
 //To run Test cases: 
 1. open the Billing.Test Project
-2. Select Tools from menu bae and select Run All Test
+2. Select Tools from menu bar and select Run All Test
+3. Note: there are 6 text cases, you can change the parameters
 
 //Database 
-1. Sql Server is used
+1. Sql Server
 2. The migration will create all necessay databse objects. Just run update-database either in your command prompt or Nuget Package console in visual studio
